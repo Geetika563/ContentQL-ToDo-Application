@@ -79,4 +79,10 @@ Manage your tasks efficiently with this To-Do application. Add, update, delete, 
 ### Active Tasks
 ![Screenshot 2024-04-07 001742](https://github.com/Geetika563/ContentQL-ToDo-Application/assets/157871606/9333afc8-50bf-4449-b9e5-38cccf8b79b8)
 
+## Tech Stack Used
+- Backend: Payload CMS with MongoDB
+- Frontend: React
+- Styling: Tailwind CSS
+- API Integration: Axios for REST API calls
+
 
